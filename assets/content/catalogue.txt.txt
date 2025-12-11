@@ -1,0 +1,5 @@
+Short explanation of how you share catalogues currently (WhatsApp, PDF, etc.).
+
+A line like:
+
+“To receive our latest complete catalogue, contact us on WhatsApp or submit the form on the Contact page.”
